@@ -21,10 +21,13 @@ cd LightweightUbuntu
 
 ### 安装系统
 
-```bash
-bash root.sh
-```
-
+    ```sh
+    ./root.sh
+    ```
+    or
+    ```sh
+    bash root.sh
+    ```
 系统会自动完成：
 
 - 下载适配架构的 Ubuntu 文件系统；
